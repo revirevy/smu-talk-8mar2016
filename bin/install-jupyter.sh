@@ -50,10 +50,13 @@ if grep -q isMaster /mnt/var/lib/info/instance.json; then
 }
 EOF
 
-  source /etc/spark/conf/spark-env.sh
-  export PYTHONPATH=$SPARK_HOME/python:$SPARK_HOME/python/lib/py4j-0.9-src.zip
+cat << EOF > /home/hadoop/start-jupyter.sh
+source /etc/spark/conf/spark-env.sh
+export PYTHONPATH=\$SPARK_HOME/python:\$SPARK_HOME/python/lib/py4j-0.9-src.zip
 
-  nohup jupyter notebook --ip=0.0.0.0 \
-    --certfile=~/mycert.pem --keyfile ~/mykey.key --no-browser \
-    --notebook-dir=~/smu-talk-8mar2016 &
+jupyter notebook --ip=0.0.0.0 --certfile=~/mycert.pem --keyfile ~/mykey.key --no-browser --notebook-dir=~/smu-talk-8mar2016 
+EOF
+
+chmod 755 /home/hadoop/start-jupyter.sh
+  
 fi
