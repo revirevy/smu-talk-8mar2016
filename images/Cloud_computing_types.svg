@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="76 72 654 387"
+   width="654pt"
+   height="387pt"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="Cloud computing types.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <sodipodi:namedview
+     inkscape:window-height="700"
+     inkscape:window-width="640"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="0.66422018"
+     inkscape:cx="408.75"
+     inkscape:cy="241.875"
+     inkscape:window-x="268"
+     inkscape:window-y="50"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata4">
+    <dc:date>2009-03-04 18:37Z</dc:date>
+<!-- Produced by OmniGraffle Professional 5.1.1 -->    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <linearGradient
+       id="linearGradient573">
+      <stop
+         style="stop-color: rgb(0, 0, 0); stop-opacity: 1;"
+         offset="0"
+         id="stop574" />
+      <stop
+         style="stop-color: rgb(245, 245, 255); stop-opacity: 1;"
+         offset="1"
+         id="stop575" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient573"
+       id="linearGradient576"
+       x1="7.0004278"
+       y1="26.874252"
+       x2="6.4566585"
+       y2="1.2704071"
+       gradientTransform="matrix(3.538753,0,0,4.107074,134.45028,270.09395)"
+       gradientUnits="userSpaceOnUse" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 241.875 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="817.5 : 241.875 : 1"
+       inkscape:persp3d-origin="408.75 : 161.25 : 1"
+       id="perspective211" />
+    <filter
+       id="Shadow"
+       filterUnits="userSpaceOnUse">
+      <feGaussianBlur
+         in="SourceAlpha"
+         result="blur"
+         stdDeviation="3.488"
+         id="feGaussianBlur9" />
+      <feOffset
+         in="blur"
+         result="offset"
+         dx="0"
+         dy="4"
+         id="feOffset11" />
+      <feFlood
+         flood-color="black"
+         flood-opacity=".75"
+         result="flood"
+         id="feFlood13" />
+      <feComposite
+         in="flood"
+         in2="offset"
+         operator="in"
+         id="feComposite15" />
+    </filter>
+    <font-face
+       font-family="Bitstream Vera Sans"
+       font-size="18"
+       panose-1="2 11 6 3 3 8 4 2 2 4"
+       units-per-em="1000"
+       underline-position="-104.003906"
+       underline-thickness="69.82422"
+       slope="0"
+       x-height="555.55554"
+       cap-height="722.22223"
+       ascent="928.22266"
+       descent="-235.83984"
+       font-weight="500"
+       id="font-face17">
+      <font-face-src
+         id="font-face-src19">
+        <font-face-name
+           name="BitstreamVeraSans-Roman"
+           id="font-face-name21" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="Bitstream Vera Sans"
+       font-size="14"
+       panose-1="2 11 6 3 3 8 4 2 2 4"
+       units-per-em="1000"
+       underline-position="-104.003906"
+       underline-thickness="69.82422"
+       slope="0"
+       x-height="571.4286"
+       cap-height="714.28577"
+       ascent="928.22266"
+       descent="-235.83984"
+       font-weight="500"
+       id="font-face23">
+      <font-face-src
+         id="font-face-src25">
+        <font-face-name
+           name="BitstreamVeraSans-Roman"
+           id="font-face-name27" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="Bitstream Vera Sans"
+       font-size="9"
+       panose-1="2 11 6 3 3 8 4 2 2 4"
+       units-per-em="1000"
+       underline-position="-104.003906"
+       underline-thickness="69.82422"
+       slope="0"
+       x-height="555.55554"
+       cap-height="777.77783"
+       ascent="928.22266"
+       descent="-235.83984"
+       font-weight="500"
+       id="font-face29">
+      <font-face-src
+         id="font-face-src31">
+        <font-face-name
+           name="BitstreamVeraSans-Roman"
+           id="font-face-name33" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="Bitstream Vera Sans"
+       font-size="24"
+       panose-1="2 11 6 3 3 8 4 2 2 4"
+       units-per-em="1000"
+       underline-position="-104.003906"
+       underline-thickness="69.82422"
+       slope="0"
+       x-height="541.6667"
+       cap-height="750"
+       ascent="928.22266"
+       descent="-235.83984"
+       font-weight="500"
+       id="font-face35">
+      <font-face-src
+         id="font-face-src37">
+        <font-face-name
+           name="BitstreamVeraSans-Roman"
+           id="font-face-name39" />
+      </font-face-src>
+    </font-face>
+  </defs>
+  <g
+     stroke="none"
+     stroke-opacity="1"
+     stroke-dasharray="none"
+     fill="none"
+     fill-opacity="1"
+     id="g41">
+    <title
+       id="title43">Canvas 1</title>
+    <g
+       id="g45">
+      <title
+         id="title47">Layer 1</title>
+      <g
+         id="g49">
+        <use
+           xlink:href="#id9_Graphic"
+           filter="url(#Shadow)"
+           id="use51" />
+        <use
+           xlink:href="#id28_Graphic"
+           filter="url(#Shadow)"
+           id="use53" />
+        <use
+           xlink:href="#id494_Graphic"
+           filter="url(#Shadow)"
+           id="use55" />
+        <use
+           xlink:href="#id495_Graphic"
+           filter="url(#Shadow)"
+           id="use57" />
+        <use
+           xlink:href="#id512_Graphic"
+           filter="url(#Shadow)"
+           id="use59" />
+        <use
+           xlink:href="#id516_Graphic"
+           filter="url(#Shadow)"
+           id="use61" />
+        <use
+           xlink:href="#id522_Graphic"
+           filter="url(#Shadow)"
+           id="use63" />
+        <use
+           xlink:href="#id4_Graphic"
+           filter="url(#Shadow)"
+           id="use65" />
+        <use
+           xlink:href="#id526_Graphic"
+           filter="url(#Shadow)"
+           id="use67" />
+      </g>
+      <g
+         id="id9_Graphic">
+        <path
+           d="M 324.50012 252.02266 C 252.96242 236.17358 281.48987 102.75046 395.60846 125.516335 C 406.19617 81.138336 538.90076 88.3414 538.0332 125.516335 C 621.24304 77.96913 727.5802 172.77731 656.255 220.32451 C 741.84167 243.37663 655.17493 367.5783 584.93414 346.83084 C 579.31274 381.41196 453.74335 393.51343 442.7219 346.83084 C 371.61798 396.6856 223.35495 320.03113 324.50012 252.02266 Z"
+           fill="white"
+           id="path70" />
+        <path
+           d="M 324.50012 252.02266 C 252.96242 236.17358 281.48987 102.75046 395.60846 125.516335 C 406.19617 81.138336 538.90076 88.3414 538.0332 125.516335 C 621.24304 77.96913 727.5802 172.77731 656.255 220.32451 C 741.84167 243.37663 655.17493 367.5783 584.93414 346.83084 C 579.31274 381.41196 453.74335 393.51343 442.7219 346.83084 C 371.61798 396.6856 223.35495 320.03113 324.50012 252.02266 Z"
+           stroke="black"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="1"
+           id="path72" />
+        <text
+           transform="translate(338.1889 225.67358)"
+           fill="black"
+           id="text74">
+          <tspan
+             font-family="Bitstream Vera Sans"
+             font-size="18"
+             font-weight="500"
+             x="104.612534"
+             y="17"
+             textLength="90.615234"
+             id="tspan76">The Cloud</tspan>
+        </text>
+      </g>
+      <g
+         id="id28_Graphic">
+        <ellipse
+           cx="368.30127"
+           cy="196.86322"
+           rx="68.030617"
+           ry="45.353668"
+           fill="white"
+           id="ellipse79" />
+        <ellipse
+           cx="368.30127"
+           cy="196.86322"
+           rx="68.030617"
+           ry="45.353668"
+           stroke="black"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="1"
+           id="ellipse81" />
+        <text
+           transform="translate(318.87686 175.86322)"
+           fill="black"
+           id="text83">
+          <tspan
+             font-family="Bitstream Vera Sans"
+             font-size="18"
+             font-weight="500"
+             x="19.756924"
+             y="17"
+             textLength="10.854492"
+             id="tspan85">P</tspan>
+          <tspan
+             font-family="Bitstream Vera Sans"
+             font-size="18"
+             font-weight="500"
+             x="30.29501"
+             y="17"
+             textLength="48.796875"
+             id="tspan87">ublic/</tspan>
+          <tspan
+             font-family="Bitstream Vera Sans"
+             font-size="18"
+             font-weight="500"
+             x="12.084072"
+             y="38"
+             textLength="47.557617"
+             id="tspan89">Exter</tspan>
+          <tspan
+             font-family="Bitstream Vera Sans"
+             font-size="18"
+             font-weight="500"
+             x="59.325283"
+             y="38"
+             textLength="27.439453"
+             id="tspan91">nal</tspan>
+        </text>
+      </g>
+      <g
+         id="id494_Graphic">
+        <ellipse
+           cx="593.16705"
+           cy="289.4985"
+           rx="46.048344"
+           ry="30.698847"
+           fill="white"
+           id="ellipse94" />
+        <ellipse
+           cx="593.16705"
+           cy="289.4985"
+           rx="46.048344"
+           ry="30.698847"
+           stroke="black"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="1"
+           id="ellipse96" />
+      </g>
+      <g
+         id="id495_Graphic">
+        <ellipse
+           cx="506.1184"
+           cy="157.33621"
+           rx="42.109024"
+           ry="28.072641"
+           fill="white"
+           id="ellipse99" />
+        <ellipse
+           cx="506.1184"
+           cy="157.33621"
+           rx="42.109024"
+           ry="28.072641"
+           stroke="black"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="1"
+           id="ellipse101" />
+      </g>
+      <line
+         x1="431.29123"
+         y1="178.79721"
+         x2="466.94626"
+         y2="168.57108"
+         stroke="black"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="1"
+         id="line103" />
+      <line
+         x1="523.32776"
+         y1="183.46446"
+         x2="574.37347"
+         y2="260.965"
+         stroke="black"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="1"
+         id="line105" />
+      <g
+         id="id512_Graphic">
+        <ellipse
+           cx="376.93756"
+           cy="312.41382"
+           rx="27.000069"
+           ry="18.000046"
+           fill="white"
+           id="ellipse108" />
+        <ellipse
+           cx="376.93756"
+           cy="312.41382"
+           rx="27.000069"
+           ry="18.000046"
+           stroke="black"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="1"
+           id="ellipse110" />
+      </g>
+      <line
+         x1="371.7241"
+         y1="242.65959"
+         x2="375.5566"
+         y2="293.93735"
+         stroke="black"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="1"
+         id="line112" />
+      <g
+         id="id516_Graphic">
+        <ellipse
+           cx="469.38882"
+           cy="296.95663"
+           rx="46.048382"
+           ry="30.698906"
+           fill="white"
+           id="ellipse115" />
+        <ellipse
+           cx="469.38882"
+           cy="296.95663"
+           rx="46.048382"
+           ry="30.698906"
+           stroke="black"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="1"
+           id="ellipse117" />
+      </g>
+      <line
+         x1="403.62369"
+         y1="307.95206"
+         x2="424.22379"
+         y2="304.50787"
+         stroke="black"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="1"
+         id="line119" />
+      <line
+         x1="515.75043"
+         y1="294.16318"
+         x2="546.80548"
+         y2="292.29196"
+         stroke="black"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="1"
+         id="line121" />
+      <line
+         x1="406.65842"
+         y1="234.84317"
+         x2="443.3109"
+         y2="271.1352"
+         stroke="black"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="1"
+         id="line123" />
+      <g
+         id="id522_Graphic">
+        <ellipse
+           cx="606.2688"
+           cy="177.50958"
+           rx="39.000088"
+           ry="25.999989"
+           fill="white"
+           id="ellipse126" />
+        <ellipse
+           cx="606.2688"
+           cy="177.50958"
+           rx="39.000088"
+           ry="25.999989"
+           stroke="black"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="1"
+           id="ellipse128" />
+      </g>
+      <g
+         id="id4_Graphic">
+        <path
+           d="M 105.576447 88.630585 L 432.2764 88.630585 C 437.24695 88.630585 441.2764 92.66002 441.2764 97.630585 L 441.2764 247.35306 C 441.2764 252.32362 437.24695 256.35306 432.2764 256.35306 L 105.576447 256.35306 C 100.60588 256.35306 96.576447 252.32362 96.576447 247.35306 C 96.576447 247.35306 96.576447 247.35306 96.576447 247.35306 L 96.57644 97.630585 C 96.57644 92.66002 100.605873 88.630585 105.57644 88.630585 Z"
+           stroke="black"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="1"
+           id="path131" />
+      </g>
+      <line
+         x1="603.1781"
+         y1="203.92792"
+         x2="596.80585"
+         y2="258.39545"
+         stroke="black"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="1"
+         id="line133" />
+      <line
+         x1="546.92566"
+         y1="165.55605"
+         x2="568.43823"
+         y2="169.88934"
+         stroke="black"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="1"
+         id="line135" />
+      <g
+         id="id526_Graphic">
+        <path
+           d="M 148.4716 179.4891 C 126.48146 174.61722 135.25058 133.60396 170.32977 140.60202 C 173.58435 126.960556 214.37674 129.17473 214.11006 140.60202 C 239.68814 125.98637 272.37537 155.12968 250.45055 169.74533 C 276.75925 176.83138 250.11856 215.01004 228.52707 208.63242 C 226.79909 219.26239 188.2 222.9823 184.81209 208.63242 C 162.95528 223.9574 117.380356 200.39439 148.4716 179.4891 Z"
+           fill="white"
+           id="path138" />
+        <path
+           d="M 148.4716 179.4891 C 126.48146 174.61722 135.25058 133.60396 170.32977 140.60202 C 173.58435 126.960556 214.37674 129.17473 214.11006 140.60202 C 239.68814 125.98637 272.37537 155.12968 250.45055 169.74533 C 276.75925 176.83138 250.11856 215.01004 228.52707 208.63242 C 226.79909 219.26239 188.2 222.9823 184.81209 208.63242 C 162.95528 223.9574 117.380356 200.39439 148.4716 179.4891 Z"
+           stroke="black"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="1"
+           id="path140" />
+        <text
+           transform="translate(156.14249 153.6172)"
+           fill="black"
+           id="text142">
+          <tspan
+             font-family="Bitstream Vera Sans"
+             font-size="18"
+             font-weight="500"
+             fill="black"
+             x="8.212101"
+             y="17"
+             textLength="10.854492"
+             id="tspan144">P</tspan>
+          <tspan
+             font-family="Bitstream Vera Sans"
+             font-size="18"
+             font-weight="500"
+             fill="black"
+             x="18.750187"
+             y="17"
+             textLength="58.280273"
+             id="tspan146">rivate/</tspan>
+          <tspan
+             font-family="Bitstream Vera Sans"
+             font-size="18"
+             font-weight="500"
+             fill="black"
+             x="7.9352455"
+             y="38"
+             textLength="42.249023"
+             id="tspan148">Inter</tspan>
+          <tspan
+             font-family="Bitstream Vera Sans"
+             font-size="18"
+             font-weight="500"
+             fill="black"
+             x="49.867863"
+             y="38"
+             textLength="27.439453"
+             id="tspan150">nal</tspan>
+        </text>
+      </g>
+      <text
+         transform="translate(242.42668 103.44577)"
+         fill="black"
+         id="text152">
+        <tspan
+           font-family="Bitstream Vera Sans"
+           font-size="18"
+           font-weight="500"
+           x=".27978516"
+           y="17"
+           textLength="59.44043"
+           id="tspan154">Hybrid</tspan>
+      </text>
+      <line
+         x1="301.04877"
+         y1="188.03864"
+         x2="261.88498"
+         y2="182.89972"
+         stroke="black"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="1"
+         id="line156" />
+      <text
+         transform="translate(407.60907 393.15305)"
+         fill="black"
+         id="text158">
+        <tspan
+           font-family="Bitstream Vera Sans"
+           font-size="14"
+           font-weight="500"
+           x=".49267578"
+           y="13"
+           textLength="33.769531"
+           id="tspan160">Off P</tspan>
+        <tspan
+           font-family="Bitstream Vera Sans"
+           font-size="14"
+           font-weight="500"
+           x="34.016113"
+           y="13"
+           textLength="5.7558594"
+           id="tspan162">r</tspan>
+        <tspan
+           font-family="Bitstream Vera Sans"
+           font-size="14"
+           font-weight="500"
+           x="39.464355"
+           y="13"
+           textLength="90.029297"
+           id="tspan164">emises / Thir</tspan>
+        <tspan
+           font-family="Bitstream Vera Sans"
+           font-size="14"
+           font-weight="500"
+           x="129.24756"
+           y="13"
+           textLength="21.779297"
+           id="tspan166">d P</tspan>
+        <tspan
+           font-family="Bitstream Vera Sans"
+           font-size="14"
+           font-weight="500"
+           x="150.39795"
+           y="13"
+           textLength="28.109375"
+           id="tspan168">arty</tspan>
+      </text>
+      <text
+         transform="translate(128.76376 393.15305)"
+         fill="black"
+         id="text170">
+        <tspan
+           font-family="Bitstream Vera Sans"
+           font-size="14"
+           font-weight="500"
+           x=".048828125"
+           y="13"
+           textLength="32.785156"
+           id="tspan172">On P</tspan>
+        <tspan
+           font-family="Bitstream Vera Sans"
+           font-size="14"
+           font-weight="500"
+           x="32.58789"
+           y="13"
+           textLength="5.7558594"
+           id="tspan174">r</tspan>
+        <tspan
+           font-family="Bitstream Vera Sans"
+           font-size="14"
+           font-weight="500"
+           x="38.036133"
+           y="13"
+           textLength="95.819336"
+           id="tspan176">emises / Inter</tspan>
+        <tspan
+           font-family="Bitstream Vera Sans"
+           font-size="14"
+           font-weight="500"
+           x="133.609375"
+           y="13"
+           textLength="21.341797"
+           id="tspan178">nal</tspan>
+      </text>
+      <a
+         xlink:href="http://creativecommons.org/licenses/by-sa/3.0/"
+         id="a180">
+        <text
+           transform="translate(579.687 437.5895)"
+           fill="black"
+           id="text182">
+          <tspan
+             font-family="Bitstream Vera Sans"
+             font-size="9"
+             font-weight="500"
+             x=".4675293"
+             y="8"
+             textLength="15.815918"
+             id="tspan184">CC-</tspan>
+          <tspan
+             font-family="Bitstream Vera Sans"
+             font-size="9"
+             font-weight="500"
+             x="15.9626465"
+             y="8"
+             textLength="6.1743164"
+             id="tspan186">B</tspan>
+          <tspan
+             font-family="Bitstream Vera Sans"
+             font-size="9"
+             font-weight="500"
+             x="21.644775"
+             y="8"
+             textLength="5.4975586"
+             id="tspan188">Y</tspan>
+          <tspan
+             font-family="Bitstream Vera Sans"
+             font-size="9"
+             font-weight="500"
+             x="26.074463"
+             y="8"
+             textLength="8.960449"
+             id="tspan190">-S</tspan>
+          <tspan
+             font-family="Bitstream Vera Sans"
+             font-size="9"
+             font-weight="500"
+             x="35.201904"
+             y="8"
+             textLength="23.330566"
+             id="tspan192">A 3.0</tspan>
+        </text>
+      </a>
+      <a
+         xlink:href="http://samj.net/"
+         id="a194">
+        <text
+           transform="translate(651.42352 437.5895)"
+           fill="black"
+           id="text196">
+          <tspan
+             font-family="Bitstream Vera Sans"
+             font-size="9"
+             font-weight="500"
+             x=".07348633"
+             y="8"
+             textLength="61.853027"
+             id="tspan198">Sam Johnston</tspan>
+        </text>
+      </a>
+      <text
+         transform="translate(639.0553 437.5895)"
+         fill="black"
+         id="text200">
+        <tspan
+           font-family="Bitstream Vera Sans"
+           font-size="9"
+           font-weight="500"
+           x=".48046875"
+           y="8"
+           textLength="11.0390625"
+           id="tspan202">by</tspan>
+      </text>
+      <text
+         transform="translate(275 419.0895)"
+         fill="black"
+         id="text204">
+        <tspan
+           font-family="Bitstream Vera Sans"
+           font-size="24"
+           font-weight="500"
+           x=".38476562"
+           y="22"
+           textLength="230.26172"
+           id="tspan206">Cloud Computing T</tspan>
+        <tspan
+           font-family="Bitstream Vera Sans"
+           font-size="24"
+           font-weight="500"
+           x="226.9082"
+           y="22"
+           textLength="56.70703"
+           id="tspan208">ypes</tspan>
+      </text>
+    </g>
+  </g>
+  <rect
+     style="fill:url(#linearGradient576);fill-rule:evenodd;stroke-width:1"
+     id="rect572"
+     width="94.288857"
+     height="109.43155"
+     x="152.48813"
+     y="274.45667" />
+  <rect
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.73359799"
+     id="rect562"
+     width="102.89789"
+     height="110.88581"
+     x="149.20853"
+     y="272.2753" />
+  <rect
+     style="fill:#808080;fill-rule:evenodd;stroke-width:1"
+     id="rect577"
+     width="0"
+     height="1.090681"
+     x="193.89326"
+     y="277.00159" />
+  <rect
+     style="fill:#b06f5b;fill-rule:evenodd"
+     id="rect563"
+     width="9.8388386"
+     height="110.8973"
+     x="150.43839"
+     y="273.71805" />
+  <rect
+     style="fill:#b06f5b;fill-rule:evenodd"
+     id="rect564"
+     width="10.248795"
+     height="110.54522"
+     x="179.54492"
+     y="273.36594" />
+  <rect
+     style="fill:#b06f5b;fill-rule:evenodd"
+     id="rect565"
+     width="12.708508"
+     height="109.48907"
+     x="208.24158"
+     y="274.0701" />
+  <rect
+     style="fill:#b06f5b;fill-rule:evenodd"
+     id="rect566"
+     width="12.298548"
+     height="110.19316"
+     x="239.39786"
+     y="273.36594" />
+  <rect
+     style="fill:#b06f5b;fill-rule:evenodd"
+     id="rect567"
+     width="94.69883"
+     height="10.906812"
+     x="151.25827"
+     y="273.36594" />
+  <rect
+     style="fill:#b06f5b;fill-rule:evenodd"
+     id="rect568"
+     width="94.69883"
+     height="11.997483"
+     x="150.43839"
+     y="294.08884" />
+  <rect
+     style="fill:#b06f5b;fill-rule:evenodd"
+     id="rect569"
+     width="94.69883"
+     height="11.997483"
+     x="151.25827"
+     y="315.90247" />
+  <rect
+     style="fill:#b06f5b;fill-rule:evenodd"
+     id="rect570"
+     width="94.69883"
+     height="11.997483"
+     x="152.48813"
+     y="337.71603" />
+  <rect
+     style="fill:#b06f5b;fill-rule:evenodd"
+     id="rect571"
+     width="94.69883"
+     height="11.997483"
+     x="154.94791"
+     y="361.34744" />
+  <rect
+     style="fill:#b2a486;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+     id="rect578"
+     width="32.796127"
+     height="21.450035"
+     x="183.23456"
+     y="362.80173" />
+  <rect
+     style="fill:#585858;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+     id="rect579"
+     width="21.31748"
+     height="14.542398"
+     x="189.38376"
+     y="369.70941" />
+</svg>
