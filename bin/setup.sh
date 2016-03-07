@@ -3,6 +3,8 @@
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"/..
 source $DIR/conf/config
 
+export AWS_DEFAULT_REGION
+
 function create_vpc() {
 
   VPC_ID=$(aws ec2 create-vpc --cidr-block $VPC_CIDR_BLOCK | grep VpcId | head -1 \
@@ -52,7 +54,8 @@ create_emr() {
     START_TIME=$(date -v -1H -u +"%Y-%m-%dT%H:%M:%SZ")
     END_TIME=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
   else
-    echo 
+    START_TIME=$(date -d "-1 Hour" -u +"%Y-%m-%dT%H:%M:%SZ")
+    END_TIME=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
   fi
 
   echo "Getting On Demand pricing from AWS..."

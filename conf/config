@@ -7,6 +7,7 @@ PUBLIC_SUBNET=10.3.0.0/24
 INSTANCE_TYPE=c3.xlarge
 SLAVES_INSTANCE_COUNT=2
 AZ=ap-southeast-1a
+AWS_DEFAULT_REGION=ap-southeast-1
 
 ######################################
 
