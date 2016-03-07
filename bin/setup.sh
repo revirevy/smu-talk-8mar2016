@@ -40,7 +40,8 @@ function create_vpc() {
                              | grep GroupId | head -1  | awk '{gsub(/\"/, "");gsub(/,/,""); print $2}')
 
   aws ec2 authorize-security-group-ingress --group-id $CUSTOM_SECURITY_GROUP_ID --protocol tcp --port 22 --cidr 0.0.0.0/0
-  aws ec2 authorize-security-group-ingress --group-id $CUSTOM_SECURITY_GROUP_ID --protocol tcp --port 8888 --cidr 0.0.0.0/0
+  #we will use ssh socks proxy
+  #aws ec2 authorize-security-group-ingress --group-id $CUSTOM_SECURITY_GROUP_ID --protocol tcp --port 8888 --cidr 0.0.0.0/0
 }
 
 create_emr() {
@@ -95,6 +96,7 @@ create_emr() {
     InstanceGroupType=CORE,BidPrice=$BID_PRICE,InstanceType=$INSTANCE_TYPE,InstanceCount=$SLAVES_INSTANCE_COUNT \
     --use-default-roles \
     --termination-protected \
+    --configurations https://ltsai.s3.amazonaws.com/smu-talk-8mar2016/myConfig.json \
     --bootstrap-action Path=s3://ltsai/smu-talk-8mar2016/install-jupyter.sh
 }
 
